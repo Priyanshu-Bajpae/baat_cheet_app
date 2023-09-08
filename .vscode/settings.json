@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "E:/flutter/chat_app/linux"
+    "cmake.sourceDirectory": "E:/flutter/chat_app/linux",
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
